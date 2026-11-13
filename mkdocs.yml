@@ -1,7 +1,7 @@
 site_name: DevOps Operations Handbook
 site_description: Учебная документация по проверке и публикации изменений
-repo_name: <login>/devops-docs
-repo_url: https://github.com/<login>/devops-docs
+repo_name: alupLi/devops-docs
+repo_url: https://github.com/alupLi/devops-docs
 theme:
   name: mkdocs
   locale: ru
